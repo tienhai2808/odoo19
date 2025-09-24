@@ -56,5 +56,4 @@ package.json
 # python environment
 /venv/
 
-# log file 
-odoo.log
+ubuntu.txt
