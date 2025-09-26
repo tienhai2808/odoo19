@@ -25,7 +25,7 @@ PostgreSQL will run on the port you configure, remember the port, username and p
 
 Run application
 ```bash
-python odoo-bin
+python odoo-bin -c "odoo.conf"
 ```
 
 ### Good Luck🍀😚
