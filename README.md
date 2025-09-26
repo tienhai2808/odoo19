@@ -12,7 +12,7 @@ Install relevant libraries, requires [Python 3.12+](https://www.python.org/searc
 python -m venv myenv
 ```
 ```bash
-source myenv/bin/activate
+myenv\Scripts\activate
 ```
 ```bash
 pip install -r requirements.txt
